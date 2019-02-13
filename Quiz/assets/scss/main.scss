@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	background: #F3F3F3;
+}
+
+.quiz {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+
+	.question {
+		width: 600px;
+		&__answers {
+			display: flex;
+			flex-direction: column;
+			margin: 15px 0px;
+
+			label {
+				padding: 15px;
+				margin: 5px 0px;
+				background: #C4C4C4;
+
+				&.correct {
+					background: #24A484;
+				}
+				&.incorrect {
+					background: #AF1E2D;
+				}
+			}
+		}
+
+		&__actions {
+			display: flex;
+			justify-content: flex-end;
+		}
+	}
+}
+
+.hide {
+	display: none;
+}

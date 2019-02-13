@@ -1,0 +1,80 @@
+{
+    "questions": [
+        {
+            "id": "0",
+            "title": "Is India in Asia",
+            "answers": [
+                {
+                    "id": "0",
+                    "answer": "Yes"
+                },
+                {
+                    "id": "1",
+                    "answer": "No"
+                }
+            ],
+            "correct": "0"
+        },
+        {
+            "id": "1",
+            "title": "Which department is not there in PICT",
+            "answers": [
+                {
+                    "id": "0",
+                    "answer": "Computer Science"
+                },
+                {
+                    "id": "1",
+                    "answer": "Electronics and Communication"
+                },
+                {
+                    "id": "2",
+                    "answer": "Mechanical"
+                }
+            ],
+            "correct": "2"
+        },
+        {
+            "id": "3",
+            "title": "Which language is used to write git",
+            "answers": [
+                {
+                    "id": "0",
+                    "answer": "Java"
+                },
+                {
+                    "id": "1",
+                    "answer": "C"
+                },
+                {
+                    "id": "2",
+                    "answer": "Python"
+                }
+            ],
+            "correct": "1"
+        },
+        {
+            "id": "4",
+            "title": "What is most important in PICT",
+            "answers": [
+                {
+                    "id": "0",
+                    "answer": "Attendance"
+                },
+                {
+                    "id": "1",
+                    "answer": "Helmet"
+                },
+                {
+                    "id": "2",
+                    "answer": "Unit Test"
+                },
+                {
+                    "id": "3",
+                    "answer": "iCard"
+                }
+            ],
+            "correct": "3"
+        }
+    ]
+}
