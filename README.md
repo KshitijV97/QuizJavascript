@@ -1,2 +1,2 @@
-# QuizJavascript
+# Quiz
 Quiz using Javascript
